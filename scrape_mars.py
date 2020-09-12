@@ -8,6 +8,11 @@ import pandas as pd
 # IN: nothing, just needs to be called
 # OUT: a dictionary of scraped data
 def scrape():
+    #executable_path = {'executable_path': '/usr/local/bin/chromedriver'}
+    #browser = Browser('chrome', **executable_path, headless=False)
+    #browser.visit(url)
+    
+    
     #################################################################
     # NASA Mars News
     #################################################################
